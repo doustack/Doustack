@@ -1,6 +1,6 @@
 # DouStack Team
 ##
-![logo](https://github.com/doustack/Doustack/blob/main/Image/doustack_logo_3.png)
+![logo](https://github.com/doustack/Doustack/blob/main/doustack_logo/doustack_logo_2.png)
 ##
 
 # 💫 About Us:
