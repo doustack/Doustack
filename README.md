@@ -1,7 +1,5 @@
 # DouStack Team
-##
-![logo](https://github.com/doustack/Doustack/blob/main/doustack_logo/97ce8def-b271-4356-9b47-1eb30154fc59.png)
-##
+<br>
 
 # 💫 About Us:
 <br><br>👨‍💻 About Us — DuoStack<br><br>Hey there! We're DuoStack — a passionate two-person team of computer science students: Amirhossein & Arian. 🚀<br><br>We specialize in:<br>🔹 Back-End Development<br>🔹 Machine Learning<br>🔹 Deep Learning<br><br>Our mission?<br>To build smart, intelligent web applications 🤖✨ — blending tech with creativity to deliver smooth, beautiful, and functional user experiences. 🎨🧠<br><br>Let's connect, learn, and build amazing things together! 💻💡
@@ -20,4 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DuoStack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![logo](https://github.com/doustack/Doustack/blob/main/doustack_logo/97ce8def-b271-4356-9b47-1eb30154fc59.png)
