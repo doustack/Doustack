@@ -1,6 +1,6 @@
 # DouStack Team
 ##
-![logo](https://sdmntprwestus3.oaiusercontent.com/files/00000000-7088-61fd-8e7d-65ac80fe5d3b/raw?se=2025-06-03T16%3A13%3A39Z&sp=r&sv=2024-08-04&sr=b&scid=b7537494-69cf-51d8-a755-92788b2d971d&skoid=71e8fa5c-90a9-4c17-827b-14c3005164d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-03T12%3A14%3A43Z&ske=2025-06-04T12%3A14%3A43Z&sks=b&skv=2024-08-04&sig=X/4rCiO%2BqWg7qq/W10GC0/N24HSImsKpQdXmY%2BIkyrA%3D)
+![logo]()
 ##
 
 # 💫 About Us:
