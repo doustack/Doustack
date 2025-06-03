@@ -19,4 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=DuoStack&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![logo](https://github.com/doustack/Doustack/blob/main/doustack_logo/97ce8def-b271-4356-9b47-1eb30154fc59.png)
+![logo]()
