@@ -1,7 +1,7 @@
-## 💻DouStack Team
+# 💻DouStack Team
 <br>
 
-# 💫 About Us:
+## 💫 About Us:
 <br><br>👨‍💻 About Us — DuoStack<br><br>Hey there! We're DuoStack — a passionate two-person team of computer science students: Amirhossein & Arian. 🚀<br><br>We specialize in:<br>🔹 Back-End Development<br>🔹 Machine Learning<br>🔹 Deep Learning<br><br>Our mission?<br>To build smart, intelligent web applications 🤖✨ — blending tech with creativity to deliver smooth, beautiful, and functional user experiences. 🎨🧠<br><br>Let's connect, learn, and build amazing things together! 💻💡
 
 
